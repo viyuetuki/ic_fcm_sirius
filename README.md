@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F0000&height=120&section=header"/>
 
 # 👩🏻‍💻📚 Iniciação Científica: "Estudos de Mapas Cognitivos Fuzzy para Modelagem de Problemas Inversos"
 
@@ -10,7 +10,7 @@ Agradeço à Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), 
 
 Caso queira saber mais sobre mim, acesse <a href="https://github.com/viyuetuki">aqui</a> meu perfil do GitHub e fique à vontade para ter mais informações e acessar os meus outros repositórios 😊.</p>
 
-<p style='text-align: justify'><img src="https://fapesp.br/files/upload/15922/fapesp.gif" width="350" height="100" > </p>
+<p style='text-align: justify'><img src="https://fapesp.br/files/upload/15922/fapesp.gif" width="350" height="75" > </p>
 
 ## 🗄 Organização
 
@@ -46,4 +46,4 @@ Outros arquivos que se encontram presentes:
 📁 <a href="https://github.com/viyuetuki/ic_fcm_sirius/blob/main/orthogonal_projection.ipynb">orthogonal_projection.ipynb</a> - É o arquivo base de todos os arquivos de experimento presente neste repositório.
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F0000&height=120&section=footer"/>
