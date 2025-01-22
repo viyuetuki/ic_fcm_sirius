@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=shadow_red&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=header"/>
 
 # 👩🏻‍💻📚 Iniciação Científica: "Estudos de Mapas Cognitivos Fuzzy para Modelagem de Problemas Inversos"
 
@@ -46,4 +46,4 @@ Outros arquivos que se encontram presentes:
 📁 <a href="https://github.com/viyuetuki/ic_fcm_sirius/blob/main/orthogonal_projection.ipynb">orthogonal_projection.ipynb</a> - É o arquivo base de todos os arquivos de experimento presente neste repositório.
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=shadow_red&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=footer"/>
